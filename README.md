@@ -1,3 +1,31 @@
+# Hospital Management System 🏥
+
+A modern, web-based application designed to streamline hospital operations, built with Next.js, Drizzle ORM, and Better Auth.
+
+---
+
+## ✨ Overview
+
+This project aims to create a comprehensive management system for hospitals, covering patient records, appointments, doctor management, and administrative tasks. It leverages a modern tech stack for a robust and scalable solution.
+
+---
+
+## 🛠️ Tech Stack
+
+* **Framework:** [Next.js](https://nextjs.org/) (App Router)
+* **Authentication:** [Better Auth](https://better-auth.dev/) (Email/Password & Google OAuth)
+* **Database ORM:** [Drizzle ORM](https://orm.drizzle.team/)
+* **Database:** [PostgreSQL](https://www.postgresql.org/)
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+* **UI Components:** [Shadcn UI](https://ui.shadcn.com/)
+* **Language:** [TypeScript](https://www.typescriptlang.org/)
+* **Schema Validation:** [Zod](https://zod.dev/) (Used in forms and actions)
+* **Form Management:** [React Hook Form](https://react-hook-form.com/)
+
+---
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
